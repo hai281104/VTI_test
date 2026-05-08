@@ -1,0 +1,12 @@
+# Frontend
+**/node_modules/
+**/.next/
+**/out/
+
+# Backend
+**/target/
+**/.idea/
+**/*.iml
+**/mvnw
+**/mvnw.cmd
+**/.mvn/
